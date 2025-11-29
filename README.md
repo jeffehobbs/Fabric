@@ -31,7 +31,7 @@ An early alpha of Satin rendering a instances of a sphere geometry, along with a
 Think of Fabric as a playground of visual capabilies you can combine together.
 
 Author
-* Interacive 3D graphics
+* Interactive 3D graphics
 * Image processing and effects
 * Audio reactive scenes
 * images and video analysis pipelines
